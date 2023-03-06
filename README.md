@@ -7,7 +7,25 @@ The VirtualScroller source code used in this project was obtained through revers
 Disclaimer: This project is for learning purposes only, and the code should not be used for commercial purposes. Please do not use this code for any commercial or business-related purposes.
 
 
-#Demo
+## Demo
 
 https://user-images.githubusercontent.com/648674/223175035-8b68594d-96c1-45b7-aa69-746e8016ec8a.mp4
+
+## Steps
+
+Get the source code from Chrome dev tool.
+
+![image](https://user-images.githubusercontent.com/648674/223192907-65686ee6-d266-4eb0-9539-090ce7552906.png)
+![image](https://user-images.githubusercontent.com/648674/223192923-187eec71-183d-4550-a59a-8f164f4b953a.png)
+
+Paste the code to ChatGPT to convert it to a readable React component. 
+
+![image](https://user-images.githubusercontent.com/648674/223193081-ffddf142-61b4-4a82-8433-88a00c635ef3.png)
+![image](https://user-images.githubusercontent.com/648674/223193122-1b098657-7249-4b7c-a5de-ba3d0d129956.png)
+
+Sometimes the code is too long ChatGPT cannot return the complete code, you can ask it to return only a certain function. 
+
+![image](https://user-images.githubusercontent.com/648674/223193170-902f9030-55d3-4d5c-bdfd-bc3e1b4185b1.png)
+
+However, the code it returns is not directly runnable, and you still need to spend time debugging and optimizing the generated code yourself, but that's good enough.
 
